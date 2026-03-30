@@ -1,2 +1,2 @@
 FROM almalinux:9
-ADD https://github.com/gowthambabu8/terraform-roboshop-component/blob/main/variables.tf /tmp/variables.tf
+ADD  https://raw.githubusercontent.com/gowthambabu8/terraform-roboshop-component/refs/heads/main/variables.tf /tmp/variables.tf
